@@ -20,33 +20,6 @@
 
 ---
 
-## 📋 Requirements
-
-- Python 3.10+
-- Pygame 2.0+
-
----
-
-## ⚙️ Installation & Running
-
-**1. Clone the repository:**
-```bash
-git clone https://github.com/ngocthuan-uit/pacman-project.git
-cd pacman-project
-```
-
-**2. Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-**3. Run the game:**
-```bash
-python main.py
-```
-
----
-
 ## 🎮 Controls
 
 | Key | Action |
